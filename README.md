@@ -78,7 +78,7 @@ make
 
 ---
 
-## 🌐 Frontend (CesiumJS)
+##  Frontend (CesiumJS)
 
 Simply open:
 
@@ -101,7 +101,7 @@ http://localhost:5500
 
 ---
 
-## 🔄 API Endpoints
+##  API Endpoints
 
 ### `/search?city={name}`
 Returns:
@@ -118,7 +118,7 @@ Returns:
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 - **Dijkstra** — Weighted graph shortest path  
 - **A\*** — Heuristic accelerated pathfinding  
@@ -129,7 +129,7 @@ Returns:
 
 ---
 
-## 📘 Documentation
+##  Documentation
 
 All theory reports are in:
 
@@ -161,7 +161,7 @@ This project is fully open-source under the **MIT License**.
 
 ---
 
-## ⭐ Support
+##  Support
 
 Leave a star ⭐ on the repo if you like the work!
 
