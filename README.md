@@ -14,73 +14,41 @@ It combines **computer graphics**, **data structures & algorithms**, **networkin
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🌐 Global 3D Globe (CesiumJS)
+###  Global 3D Globe (CesiumJS)
 - Full WGS84 ellipsoid
 - High-resolution satellite tiles
 - Smooth camera fly-to animations
 - Day/night solar terminator effect
 - Realistic lighting, terrain & atmosphere
 
-### 🔎 Smart Location Search
+###  Smart Location Search
 - Search any city worldwide  
 - Backend fetches geocoding data  
 - Camera flies to the coordinates  
 
-### 🛣 Shortest Path Routing (Graph Algorithms)
+###  Shortest Path Routing (Graph Algorithms)
 - Uses Dijkstra / A*  
 - Roads modeled as a weighted graph  
 - Route visualized as a 3D polyline  
 - Extendable to real-time traffic  
 
-### 💻 C++ Crow Backend
+###  C++ Crow Backend
 - REST API endpoints  
 - Async networking (Asio)  
 - JSON parsing (nlohmann/json)  
 - Clean modular architecture  
 
-### 📦 Fully Open Source
+###  Fully Open Source
 Designed to be modifiable, extendable, and educational.
 
----
-
-## 📂 Project Structure
-
-```
-global-map-navigator/
-│
-├── backend/
-│   ├── src/
-│   │   ├── main.cpp
-│   │   ├── router.cpp
-│   │   ├── geocode.cpp
-│   │   └── route_engine.cpp
-│   ├── include/
-│   ├── CMakeLists.txt
-│   ├── README.md
-│
-├── frontend/
-│   ├── index.html
-│   ├── app.js
-│   ├── styles.css
-│   ├── assets/
-│
-├── docs/
-│   ├── THEORY_FULL_REPORT.pdf
-│   ├── THEORY_ONLY_FULL_REPORT.pdf
-│   ├── EXTENDED_LONG_REPORT.pdf
-│   └── screenshots/
-│
-├── .gitignore
-└── README.md
-```
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/keshavchawla2015-svg/global-map-navigator.git
@@ -89,7 +57,7 @@ cd global-map-navigator
 
 ---
 
-## 🖥️ Backend (C++17)
+##  Backend (C++17)
 
 ### Build Requirements
 - C++17
@@ -172,12 +140,11 @@ docs/
 Includes:
 - **Full Theory Report**
 - **Extended Long PDF**
-- **Clean Theory-Only Report**
 - **Screenshots** (manually added)
 
 ---
 
-## 📌 Future Scope
+##  Future Scope
 
 - Real-time traffic integration  
 - ML-based dynamic route selection  
@@ -188,7 +155,7 @@ Includes:
 
 ---
 
-## 📝 License
+##  License
 
 This project is fully open-source under the **MIT License**.
 
